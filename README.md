@@ -17,7 +17,10 @@ Viewing guide:
 
 Looking forward to like-minded friends!!!
 
-version control:
+
+
+=================
+版本记录:
 
 [2025-03-30]
 基础框架搭建
@@ -30,3 +33,10 @@ version control:
 2.增加Java配置
 3.增加Python配置
 4.增加OS配置
+
+[2025-03-30]
+内容补充
+1.增加CPP内容
+2.增加Java内容
+3.增加Python内容
+4.增加OS内容
