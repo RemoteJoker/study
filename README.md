@@ -16,3 +16,17 @@ Viewing guide:
 
 
 Looking forward to like-minded friends!!!
+
+version control:
+
+[2025-03-30]
+基础框架搭建
+1.增加CPP配置
+2.增加Java配置
+
+[2025-03-30]
+基础框架搭建
+1.增加CPP配置
+2.增加Java配置
+3.增加Python配置
+4.增加OS配置
